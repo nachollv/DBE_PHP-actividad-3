@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-    <title>CodeIgniter Tutorial</title>
+    <title>Actividad 3 - CodeIgniter Tutorial (Asignatura DBE en PHP)</title>
 </head>
 <body>
 <!--
